@@ -1,7 +1,6 @@
-# TinDog Project
+# The Pet Care Project
 
-HINT: To fiure out which Bootstrap components/snippets are used. Refer to the PDF below:
-https://github.com/appbrewery/tindog/blob/main/Bootstrap-snippets.pdf
+The Pet Care project is implemented by HTML,CSS,Bootstrap components.This is basic explosure in the bootstrap and make the strong foundation in the web designing.
 
 ## SVGs:
 
