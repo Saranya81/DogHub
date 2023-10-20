@@ -1,6 +1,6 @@
-# The Pet Care Project
+# DogHUB Project
 
-The Pet Care project is implemented by HTML,CSS,Bootstrap components.This is basic explosure in the bootstrap and make the strong foundation in the web designing.
+DogHub project is implemented by HTML,CSS,Bootstrap components.This is basic explosure in the bootstrap and make the strong foundation in the web designing.
 Link of the Website: https://saranya81.github.io/The-Pet-Care/
 ## SVGs:
 
@@ -55,8 +55,8 @@ We have all the dogs, the greatest dogs.
 Guaranteed to work.
 Find the love of your dog's life or your money back.
 
-"I no longer have to sniff other dogs for love. I've found the hottest Corgi on TinDog. Woof."
-Pebbles, New York
+"I no longer have to sniff other dogs for love. I've found the hottest Corgi on DogHub. Woof."
+Pebbles, Vadalur
 
 A Plan for Every Dog's Needs
 Simple and affordable price plans for you and your dog.
