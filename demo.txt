@@ -1,0 +1,2 @@
+This is the sample file,which I read the content of the file and display in the browser
+I use HTTP and fs module 
